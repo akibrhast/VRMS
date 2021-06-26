@@ -2,7 +2,7 @@
 name: Add/edit team meeting time
 about: Use this template to request a meeting time change for your project
 title: ''
-labels: 1 week change request
+labels: ''
 assignees: ''
 
 ---
